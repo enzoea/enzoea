@@ -1,18 +1,10 @@
-## 👋 Olá! Bem-vindo ao meu GitHub!
+## Olá! Eu sou o Enzo Martins!
 
-Sou **monitor** em uma escola técnica de desenvolvimento e estou sempre em busca de novos aprendizados e desafios no mundo da programação. 🚀 Tenho uma paixão por tecnologia e uma forte vontade de me tornar um **desenvolvedor profissional**. Ao longo da minha jornada, já adquiri experiência com **criação de sistemas**, **orientação a objetos** e **manipulação de eventos**.
+Sempre preferi buscar soluções para meus problemas em vez de reclamar sobre eles. Essa mudança de ponto de vista me trouxe para o mundo da tecnologia e do empreendedorismo, onde me sinto desafiado e em constante evolução para solucionar problemas do dia a dia.
+Atualmente, trabalho como Empreendedor e Desenvolvedor de sistemas, onde busco solucionar problemas e otimizar processos de clientes de diferentes áreas de atuação. Focando sempre na experiência do público alvo a ser atingido.
 
 ### 💻 O que eu estudo e trabalho:
 
-Atualmente, estou estudando uma ampla gama de linguagens e tecnologias para me aprofundar cada vez mais no desenvolvimento de software:
-
-- **JavaScript**: A base de muitas das minhas explorações no front-end e back-end.
-- **Node.js**: Meu foco no back-end, onde quero me aprofundar ainda mais.
-- **React**: Uma das minhas principais áreas de estudo para o front-end.
-- **PHP**: Usado em diversos projetos web.
-- **Java**: Linguagem que me ajudou a entender melhor a **orientação a objetos**.
-- **Python**: Ferramenta poderosa para automações e manipulação de dados.
-- **MySQL**: Noções de banco de dados relacionais para armazenar e acessar dados de forma eficiente.
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,react,mysql,java)](https://skillicons.dev)
 
 - ## Estatística do github 📈
@@ -26,10 +18,9 @@ Meu maior objetivo aqui no GitHub é **compartilhar meus projetos pessoais** e, 
 
 Além da programação, tenho alguns interesses que tornam minha vida completa:
 
-- **Família**: Passo tempo com minha família sempre que posso, pois eles são meu alicerce. 👨‍👩‍👦
-- **Igreja**: Tenho uma forte conexão espiritual e gosto de participar das atividades da minha igreja. 🙏
-- **Videogames**: No meu tempo livre, nada melhor do que jogar um pouco para relaxar e me divertir. 🎮
-- **Sonhar**: Sempre estou sonhando com o futuro, seja ele sobre novos projetos, novas aventuras ou conquistas. 🌟
+- **Família**: Passo tempo com minha família sempre que posso, pois eles são meu alicerce.
+- **Esportes**: No meu tempo livre, nada melhor do que jogar um futebol e se exercitar na academia.
+- **Música**: Sou apaixonado pela música nacional, aprecio de todos os gêneros do pagode ao funk, mas tenho como gosto principal o RAP Nacional.
 
 ### 🌟 Vamos construir juntos!
 
