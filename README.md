@@ -15,15 +15,3 @@ Aqui você irá encontrar predominantemente códigos que são feitos durante as 
 ### ✨ Objetivo
 
 Meu maior objetivo aqui no GitHub é **compartilhar meus projetos pessoais** e, mais importante, mostrar **como cheguei ao resultado final**. Acredito que o processo é tão valioso quanto o produto final, e aprender com os erros e acertos ao longo do caminho é fundamental para evoluir como desenvolvedor.
-
-### 👨‍👩‍👦 Fora do código:
-
-Além da programação, tenho alguns interesses que tornam minha vida completa:
-
-- **Família**: Passo tempo com minha família sempre que posso, pois eles são meu alicerce.
-- **Esportes**: No meu tempo livre, nada melhor do que jogar um futebol e se exercitar na academia.
-- **Música**: Sou apaixonado pela música nacional, aprecio de todos os gêneros do pagode ao funk, mas tenho como gosto principal o RAP Nacional.
-
-### 🌟 Vamos construir juntos!
-
-Se você curte tecnologia, aprender algo novo ou simplesmente trocar ideias sobre desenvolvimento, fique à vontade para entrar em contato. Adoro colaborar e aprender com a comunidade, e estou sempre aberto a sugestões, melhorias ou novos projetos!
